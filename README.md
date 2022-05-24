@@ -1,8 +1,8 @@
-# wabot-aq
+# nurutomo
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Faturrbotz/nurutomo)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -12,8 +12,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+git clone https://github.com/Faturrbotz/nurutomo
+cd nurutomo
 npm install
 npm update
 ```
@@ -47,8 +47,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+git clone https://github.com/Faturrbotz/nurutomo
+cd nurutomo
 npm install
 npm update
 ```
@@ -63,8 +63,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+git clone https://github.com/Faturrbotz/nurutomo
+cd nurutomo
 npm install
 npm update
 ```
@@ -149,7 +149,7 @@ conn.logger.level = 'debug'
 
 ## Settings
 
-Now set using switch [enable.js](https://github.com/Nurutomo/wabot-aq/blob/master/plugins/enable.js), among others are
+Now set using switch [enable.js](https://github.com/Faturrbotz/nurutomo/blob/master/plugins/enable.js), among others are
 
 ```js
 anticall: false, // Auto Reject better than autoblock
@@ -172,4 +172,4 @@ Powered by XTEAM | Author / Creator | Most Active Contributor | 2nd Most Active 
 
 NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
 
-Best Regards. wabot-aq
+Best Regards. nurutomo
