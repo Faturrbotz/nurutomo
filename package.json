@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "ZallBotZ",
   "version": "2.5.1",
-  "description": "Customizable WhatsApp Bot",
+  "description": "Created by ©Faturr-Botz",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -22,9 +22,9 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/Faturrbotz/nurutomo",
   "author": {
-    "name": "Nurutomo"
+    "name": "Faturr-Botz"
   },
   "repository": {
     "type": "git",
